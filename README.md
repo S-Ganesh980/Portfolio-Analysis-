@@ -7,3 +7,5 @@ Analyzing the portfolios Berkshire Hathaway, Tiger Global Management, Soros fund
  3. Evaluation of risk profile of each portfolio. 
  4. Analysis of Risk-return profile because the risk metrics do not describe the overall risk. We use Sharpe ratios for each portfolio to evaluate the risk-return profile. 
  5. Diversification of the portfolio based on how portfolios react relative to the broader market represented by S&P 500. 
+
+ 
